@@ -1,0 +1,18 @@
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Domain\bin\Debug\netcoreapp2.2\VendorMachine.Domain.deps.json
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Domain\bin\Debug\netcoreapp2.2\VendorMachine.Domain.dll
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Domain\bin\Debug\netcoreapp2.2\VendorMachine.Domain.pdb
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Domain\obj\Debug\netcoreapp2.2\VendorMachine.Domain.csprojAssemblyReference.cache
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Domain\obj\Debug\netcoreapp2.2\VendorMachine.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Domain\obj\Debug\netcoreapp2.2\VendorMachine.Domain.AssemblyInfoInputs.cache
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Domain\obj\Debug\netcoreapp2.2\VendorMachine.Domain.AssemblyInfo.cs
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Domain\obj\Debug\netcoreapp2.2\VendorMachine.Domain.dll
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Domain\obj\Debug\netcoreapp2.2\VendorMachine.Domain.pdb
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Domain\bin\Debug\netcoreapp2.2\VendorMachine.Domain.deps.json
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Domain\bin\Debug\netcoreapp2.2\VendorMachine.Domain.dll
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Domain\bin\Debug\netcoreapp2.2\VendorMachine.Domain.pdb
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Domain\obj\Debug\netcoreapp2.2\VendorMachine.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Domain\obj\Debug\netcoreapp2.2\VendorMachine.Domain.AssemblyInfoInputs.cache
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Domain\obj\Debug\netcoreapp2.2\VendorMachine.Domain.AssemblyInfo.cs
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Domain\obj\Debug\netcoreapp2.2\VendorMachine.Domain.dll
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Domain\obj\Debug\netcoreapp2.2\VendorMachine.Domain.pdb
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Domain\obj\Debug\netcoreapp2.2\VendorMachine.Domain.csprojAssemblyReference.cache

@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Carlos Smolareck\\source\\repos\\VendorMachine\\VendorMachine.Test\\VendorMachine.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Carlos Smolareck\\source\\repos\\VendorMachine\\VendorMachine.Domain\\VendorMachine.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Carlos Smolareck\\source\\repos\\VendorMachine\\VendorMachine.Domain\\VendorMachine.Domain.csproj",
+        "projectName": "VendorMachine.Domain",
+        "projectPath": "C:\\Users\\Carlos Smolareck\\source\\repos\\VendorMachine\\VendorMachine.Domain\\VendorMachine.Domain.csproj",
+        "packagesPath": "C:\\Users\\Carlos Smolareck\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Carlos Smolareck\\source\\repos\\VendorMachine\\VendorMachine.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Carlos Smolareck\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Carlos Smolareck\\source\\repos\\VendorMachine\\VendorMachine.Test\\VendorMachine.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Carlos Smolareck\\source\\repos\\VendorMachine\\VendorMachine.Test\\VendorMachine.Test.csproj",
+        "projectName": "VendorMachine.Test",
+        "projectPath": "C:\\Users\\Carlos Smolareck\\source\\repos\\VendorMachine\\VendorMachine.Test\\VendorMachine.Test.csproj",
+        "packagesPath": "C:\\Users\\Carlos Smolareck\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Carlos Smolareck\\source\\repos\\VendorMachine\\VendorMachine.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Carlos Smolareck\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Carlos Smolareck\\source\\repos\\VendorMachine\\VendorMachine.Domain\\VendorMachine.Domain.csproj": {
+                "projectPath": "C:\\Users\\Carlos Smolareck\\source\\repos\\VendorMachine\\VendorMachine.Domain\\VendorMachine.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

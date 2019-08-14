@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "VendorMachine.System/1.0.0": {
+        "dependencies": {
+          "VendorMachine.Domain": "1.0.0"
+        },
+        "runtime": {
+          "VendorMachine.System.dll": {}
+        }
+      },
+      "VendorMachine.Domain/1.0.0": {
+        "runtime": {
+          "VendorMachine.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VendorMachine.System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VendorMachine.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

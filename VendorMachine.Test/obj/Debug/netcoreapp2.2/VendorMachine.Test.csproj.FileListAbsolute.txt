@@ -1,0 +1,34 @@
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Test\bin\Debug\netcoreapp2.2\VendorMachine.Test.deps.json
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Test\bin\Debug\netcoreapp2.2\VendorMachine.Test.runtimeconfig.json
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Test\bin\Debug\netcoreapp2.2\VendorMachine.Test.runtimeconfig.dev.json
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Test\bin\Debug\netcoreapp2.2\VendorMachine.Test.dll
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Test\bin\Debug\netcoreapp2.2\VendorMachine.Test.pdb
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Test\obj\Debug\netcoreapp2.2\VendorMachine.Test.csprojAssemblyReference.cache
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Test\obj\Debug\netcoreapp2.2\VendorMachine.Test.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Test\obj\Debug\netcoreapp2.2\VendorMachine.Test.AssemblyInfoInputs.cache
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Test\obj\Debug\netcoreapp2.2\VendorMachine.Test.AssemblyInfo.cs
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Test\obj\Debug\netcoreapp2.2\VendorMachine.Test.dll
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Test\obj\Debug\netcoreapp2.2\VendorMachine.Test.pdb
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Test\bin\Debug\netcoreapp2.2\VendorMachine.Domain.dll
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Test\bin\Debug\netcoreapp2.2\VendorMachine.Domain.pdb
+C:\Users\Carlos Smolareck\source\repos\VendorMachine\VendorMachine.Test\obj\Debug\netcoreapp2.2\VendorMachine.Test.csproj.CopyComplete
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Test\bin\Debug\netcoreapp2.2\VendorMachine.Test.deps.json
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Test\bin\Debug\netcoreapp2.2\VendorMachine.Test.runtimeconfig.json
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Test\bin\Debug\netcoreapp2.2\VendorMachine.Test.runtimeconfig.dev.json
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Test\bin\Debug\netcoreapp2.2\VendorMachine.Test.dll
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Test\bin\Debug\netcoreapp2.2\VendorMachine.Test.pdb
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Test\bin\Debug\netcoreapp2.2\VendorMachine.Domain.dll
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Test\bin\Debug\netcoreapp2.2\VendorMachine.Domain.pdb
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Test\obj\Debug\netcoreapp2.2\VendorMachine.Test.csprojAssemblyReference.cache
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Test\obj\Debug\netcoreapp2.2\VendorMachine.Test.csproj.CoreCompileInputs.cache
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Test\obj\Debug\netcoreapp2.2\VendorMachine.Test.AssemblyInfoInputs.cache
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Test\obj\Debug\netcoreapp2.2\VendorMachine.Test.AssemblyInfo.cs
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Test\obj\Debug\netcoreapp2.2\VendorMachine.Test.csproj.CopyComplete
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Test\obj\Debug\netcoreapp2.2\VendorMachine.Test.dll
+C:\Users\cs0420\source\repos\VendorMachine\VendorMachine.Test\obj\Debug\netcoreapp2.2\VendorMachine.Test.pdb
